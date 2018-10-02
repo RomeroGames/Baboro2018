@@ -1,5 +1,5 @@
 # Baboro2018
-The final game from the 2018 Baboró Children's Game Design Workshop.
+The final game from the 2018 Baboró Children's Game Design Workshop, made during a Romero Games game jam!
 
 Code by Keith O'Conor and John Romero<br />
 Audio and Level Design by John Romero<br />
